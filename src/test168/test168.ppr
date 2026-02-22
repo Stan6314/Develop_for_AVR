@@ -1,0 +1,47 @@
+[Config]
+Compilator.FileName=compile.bat
+Compilator.Log=error.log
+Compilator.DefaultDir=c:\Projects\AVR\test168\
+Compilator.SaveAll=1
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+Compilator.LogEncoding=0
+DefaultDir=C:\Projects\AVR\test168\
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+[Project tree]
+test168
+	+Folder
+		test168.c
+[Open project files]
+0=test168.c
+1=TinyLcd.h
+2=TinyI2CMaster.h
+3=TinyLcd.c
+4=TinyI2CMaster.c
+[Selected Project Files]
+Main=
+Selected=test168.c
+[test168.c]
+TopLine=1
+Caret=77,13
+[TinyLcd.h]
+TopLine=3
+Caret=25,20
+[TinyI2CMaster.h]
+TopLine=4
+Caret=1,41
+[TinyLcd.c]
+TopLine=11
+Caret=18,54
+[TinyI2CMaster.c]
+TopLine=1
+Caret=1,21
